@@ -1,0 +1,14 @@
+short, long
+crim, crime rate
+zn, proportion large residential lots
+indus, proportion non-retail business
+chas, borders on Charles River
+nox, nitrogen oxides concentration
+rm, number of rooms per dwelling
+age, proportion built prior to 1940
+dis, distance to work
+rad, highway accessibility
+tax, property-tax
+ptratio, pupil-teacher ratio
+lstat, low Socio Economic status
+medv, median house value 
